@@ -17,7 +17,7 @@
 
 - ✨ Inspiration : Difficult Roads Leads To Beautiful Destinations.
 
-- <img src="https://komarev.com/ghpvc/?username=Saaim-K&style=flat-square&label=🚀 Profile Views&color=00DB4D"/> <a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Oct 12 2022" /></a>
+- <img src="https://komarev.com/ghpvc/?username=Saaim-K&style=flat-square&label=🚀 Profile Views&color=00DB4D"/> <a href="https://wakatime.com/waka_7cd818a1-f9e9-4817-9bbc-790f08ef88ee"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Oct 12 2022" /></a>
 
 
 
