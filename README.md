@@ -25,6 +25,7 @@
         <a href="https://instagram.com/https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
         <a href="https://twitter.com/https://www.twitter.com/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/syedasad_pk" height="40" width="50" /></a>
         <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Syed Asad Hussain#4054" height="40" width="50" /></a>
+        <a href="s.asadhere@proton.me" target="blank"><img align="center" src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" alt="Syed Asad Hussain" height="40" width="50" /></a>      
 </p>
 
 </p>
