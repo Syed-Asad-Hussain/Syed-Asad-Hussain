@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedasad30/" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="https://www.linkedin.com/in/syedasad30/" height="30" width="40" /></a>
           <a href="https://codepen.io/syed-asad-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/syed-asad-hussain" height="30" width="40" /></a>
          <a href="https://github.com/Saaim-K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                         alt="Saaim Khan" height="30" width="40" /></a>
@@ -56,6 +56,7 @@
         <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
         <a href="https://code.visualstudio.com/"target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
         <a href="https://www.sublimetext.com/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="vscode" width="40" height="40"/> </a>
+        <a href="https://www.jetbrains.com/idea/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="vscode" width="40" height="40"/> </a>
 </p>              
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
