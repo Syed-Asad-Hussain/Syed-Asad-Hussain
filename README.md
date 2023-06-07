@@ -16,15 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedasad30/" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedasad30/" height="40" width="50" /></a>
           <a href="https://codepen.io/syed-asad-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/syed-asad-hussain" height="30" width="40" /></a>
          <a href="https://github.com/Saaim-K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-                        alt="Saaim Khan" height="30" width="40" /></a>
-        <a href="https://www.behance.net/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/syedasad_pk" height="30" width="40" /></a>
-        <a href="https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/syedasad.pk" height="30" width="40" /></a>
-        <a href="https://instagram.com/https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/syedasad.pk" height="30" width="40" /></a>
-        <a href="https://twitter.com/https://www.twitter.com/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/syedasad_pk" height="30" width="40" /></a>
-        <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Syed Asad Hussain#4054" height="30" width="40" /></a>
+                        alt="Saaim Khan" height="40" width="50" /></a>
+        <a href="https://www.behance.net/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/syedasad_pk" height="40" width="50" /></a>
+        <a href="https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
+        <a href="https://instagram.com/https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
+        <a href="https://twitter.com/https://www.twitter.com/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/syedasad_pk" height="40" width="50" /></a>
+        <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Syed Asad Hussain#4054" height="40" width="50" /></a>
 </p>
 
 </p>
