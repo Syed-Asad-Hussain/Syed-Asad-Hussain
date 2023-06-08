@@ -62,4 +62,4 @@
 <h3 align="left">💰Support:</h3>
 <p><a href="https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
 <h3 align="left">🐦 Latest Tweet:</h3>
-<p><img align="left" src="https://gtce.itsvg.in/api?username=https://www.twitter.com/syedasad_pk)](https://github.com/VishwaGauravIn/github-twitter-card-embed"
+<p><img align="left" src="https://gtce.itsvg.in/api?username=https://www.twitter.com/syedasad_pk)(https://github.com/VishwaGauravIn/github-twitter-card-embed"
