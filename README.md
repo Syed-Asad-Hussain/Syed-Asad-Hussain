@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **“Experience is the name everyone gives to their mistakes.” ~ Oscar Wilde**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
         <a href="https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedasad30/" height="40" width="50" /></a>
           <a href="https://codepen.io/syed-asad-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/syed-asad-hussain" height="40" width="50" /></a>
@@ -27,7 +27,7 @@
         <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Syed Asad Hussain#4054" height="40" width="50" /></a>
 </p>
 
-<h3 align="left">💻 Tech Stack::</h3>
+<h2 align="left">💻 Tech Stack:</h2>
 <p align="left">
         <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a> 
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
@@ -42,7 +42,7 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="mssql" width="50" height="50"/> </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50"/> </a>
-<h3 align="left">Tools⚙️:</h3>
+<h2 align="left">Tools⚙️:</h2>
 <p align="left">
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="45" height="45"/> </a>
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="45" height="45"/> </a>
@@ -53,13 +53,11 @@
         <a href="https://www.sublimetext.com/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="vscode" width="45" height="45"/> </a>
         <a href="https://www.jetbrains.com/idea/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="vscode" width="45" height="45"/> </a>
 </p>              
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-asad-hussain&show_icons=true&locale=en&layout=compact" alt="syed-asad-hussain" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-asad-hussain&show_icons=true&locale=en" alt="syed-asad-hussain" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-asad-hussain&show_icons=true&locale=en" alt="syed-asad-hussain" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-asad-hussain&" alt="syed-asad-hussain" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
 
