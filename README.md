@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Syed-Asad-Hussain
 
-- 📫 You can reach me at **s.asadhere@proton.me**
+- 📫 <a src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="https://www.behance.net/syedasad_pk" height="40" width="50" /></a> You can reach me at **s.asadhere@proton.me**
 
 - ⚡ Fun fact: **“Experience is the name everyone gives to their mistakes.” ~ Oscar Wilde**
 
