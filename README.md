@@ -60,4 +60,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-asad-hussain&" alt="syed-asad-hussain" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
