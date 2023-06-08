@@ -59,5 +59,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-asad-hussain&show_icons=true&locale=en" alt="syed-asad-hussain" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-asad-hussain&" alt="syed-asad-hussain" /></p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4"<br>
-<h3 align="left">Support:</h3>
+<h3 align="left">💰Support:</h3>
 <p><a href="https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
+<h3 align="left">🐦 Latest Tweet:</h3>
+<p><img align="left" src="https://gtce.itsvg.in/api?username=https://www.twitter.com/syedasad_pk)](https://github.com/VishwaGauravIn/github-twitter-card-embed"
