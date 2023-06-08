@@ -55,8 +55,7 @@
 </p>              
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-asad-hussain&show_icons=true&locale=en&layout=compact" alt="syed-asad-hussain" /></p><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-asad-hussain&show_icons=true&locale=en" alt="syed-asad-hussain" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ssyed-asad-hussain&theme=dark&show_icons=true&locale=en&text_color=DADADA&icon_color=00DB4D&border_radius=10" alt="syed-asad-hussain" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-asad-hussain&" alt="syed-asad-hussain" /></p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4"<br>
 <h3 align="left">💰Support:</h3>
