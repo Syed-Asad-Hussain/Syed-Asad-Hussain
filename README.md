@@ -27,7 +27,7 @@
         <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Syed Asad Hussain#4054" height="40" width="50" /></a>
 </p>
 
-<h3 align="left">Programming Languages🧑‍💻:</h3>
+<h3 align="left">💻 Tech Stack::</h3>
 <p align="left">
         <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a> 
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
@@ -40,9 +40,6 @@
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-</p>
-<h3 align="left">Database Management🧾:</h3>
-<p align="left">
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="mssql" width="50" height="50"/> </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50"/> </a>
 <h3 align="left">Tools⚙️:</h3>
@@ -58,7 +55,8 @@
 </p>              
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
-
+<h2 align="left">📊 GitHub Stats:</h2>
+<p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-asad-hussain&show_icons=true&locale=en&layout=compact" alt="syed-asad-hussain" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-asad-hussain&show_icons=true&locale=en" alt="syed-asad-hussain" /></p>
