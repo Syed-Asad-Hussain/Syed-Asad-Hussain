@@ -56,7 +56,8 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-asad-hussain&theme=dark&show_icons=true&locale=en&text_color=DADADA&icon_color=00DB4D&border_radius=10" alt="syed-asad-hussain" /></p><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-asad-hussain&" alt="syed-asad-hussain" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=syed-asad-hussain&theme=soft-green&border_radius=10&date_format=j%20M%5B%20Y%5D&background=151515&sideNums=DADADA&currStreakNum=DADADA"
+                height="165" alt="syed-asad-hussain" /></p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4"<br>
 <h3 align="left">💰Support:</h3>
 <p><a href="https://www.buymeacoffee.com/s.asadhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/s.asadhere" /></a></p><br><br>
