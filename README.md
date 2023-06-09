@@ -61,7 +61,7 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
         
 <img src="https://github-readme-stats.vercel.app/api?username=Syed-Asad-Hussain&theme=react&show_icons=true&hide_border=true&count_private=true" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Asad-Hussain&theme=react&hide_border=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Asad-Hussain&theme=react&show_icons=true&hide_border=true&layout=compact" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Asad-Hussain&theme=react&show_icons=true&hide_border=true&layout=compact" height="165" width="32.5%">
 
 </a>
 
