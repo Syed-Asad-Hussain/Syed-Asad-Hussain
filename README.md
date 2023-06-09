@@ -60,8 +60,8 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
 <div align="center" >
         
 <img src="https://github-readme-stats.vercel.app/api?username=Syed-Asad-Hussain&theme=react&show_icons=true&hide_border=true&count_private=true" width="32.5%">
-<img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Asad-Hussain&theme=react&hide_border=true" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Asad-Hussain&theme=react&show_icons=true&hide_border=true&layout=compact" width="32.5%">
 
 </a>
 
