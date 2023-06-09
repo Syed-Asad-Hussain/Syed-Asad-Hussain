@@ -12,7 +12,7 @@
 
 - 📫 You can reach me at **s.asadhere@proton.me**
 
-- ⚡ Fun fact: **“Experience is the name everyone gives to their mistakes.” ~ Oscar Wilde**
+- ⚡ Fun fact: **“All change is hard at first, Messy in the Middle & Gorgeous at the End.” ~ Robin Sharma**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
