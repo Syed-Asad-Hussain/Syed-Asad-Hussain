@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-asad-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="syed-asad-hussain" /> <a href="https://wakatime.com/waka_7cd818a1-f9e9-4817-9bbc-790f08ef88ee"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Jan 1 2023" /></a></p>
 <img align="right"
-        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
+        src="https://cdn.dribbble.com/userupload/7680987/file/original-8d2d657e3f1ad6368d5c0cafd485c177.jpg?compress=1&resize=1024x1024"
         width="300" />
 - 🌱 I’m currently learning **React Native, Nest JS, Typescript**
 
@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at **s.asadhere@proton.me**
 
-- ✨ Inspiration : **“All change is hard at first, Messy in the Middle & Gorgeous at the End.”** ~ Robin Sharma
+- ✨ Inspiration : **“All change is hard at first, Messy in the Middle & Gorgeous at the End.” ~ Robin Sharma**
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
