@@ -3,7 +3,9 @@
 <h3 align="center">An Up to Snuff Geek of Cross-Functional Web & Mobile Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-asad-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="syed-asad-hussain" /> <a href="https://wakatime.com/waka_7cd818a1-f9e9-4817-9bbc-790f08ef88ee"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Jan 1 2023" /></a></p>
-
+<img align="right"
+        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
+        width="300" />
 - 🌱 I’m currently learning **React Native, Nest JS, Typescript**
 
 - 💬 Ask me about **Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.**
