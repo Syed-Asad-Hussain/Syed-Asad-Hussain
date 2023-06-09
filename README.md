@@ -22,7 +22,7 @@
                         alt="Syed Asad Hussain" height="40" width="50" /></a>
         <a href="https://www.behance.net/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/syedasad_pk" height="40" width="50" /></a>
         <a href="https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
-        <a href="https://instagram.com/syedd._asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
+        <a href="https://instagram.com/syedd._asad" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/instagram-2016-5.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
         <a href="https://www.twitter.com/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/syedasad_pk" height="40" width="50" /></a>
         <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/discord.svg" alt="Syed Asad Hussain#4054" height="40" width="50" /></a>
 </p>
