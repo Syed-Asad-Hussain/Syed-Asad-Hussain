@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **“All change is hard at first, Messy in the Middle & Gorgeous at the End.” ~ Robin Sharma**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
         <a href="https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
         <a href="https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/linkedin-icon-2.svg" alt="https://www.linkedin.com/in/syedasad30/" height="40" width="50" /></a>
