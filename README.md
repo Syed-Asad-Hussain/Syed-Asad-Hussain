@@ -58,7 +58,7 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
 </p>              
 <h2 align="left">📊 GitHub Stats:</h2>
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/Syed-Asad-Hussain">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
