@@ -47,14 +47,14 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://planbmarketing.w3spaces.com/img/mongodb-icon.svg" alt="mongodb" width="50" height="50"/> </a>
 <h2 align="left">⚙️ Tools:</h2>
 <p align="left">
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="45" height="45"/> </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="45" height="45"/> </a>
-        <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="AfterEffects" width="45" height="45"/> </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> </a>
-        <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="45" height="45"/> </a>
-        <a href="https://code.visualstudio.com/"target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
-        <a href="https://www.sublimetext.com/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="vscode" width="45" height="45"/> </a>
-        <a href="https://www.jetbrains.com/idea/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="vscode" width="45" height="45"/> </a>
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a>
+        <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="AfterEffects" width="40" height="40"/> </a>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+        <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
+        <a href="https://code.visualstudio.com/"target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
+        <a href="https://www.sublimetext.com/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="vscode" width="40" height="40"/> </a>
+        <a href="https://www.jetbrains.com/idea/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="vscode" width="40" height="40"/> </a>
 </p>              
 <h2 align="left">📊 GitHub Stats:</h2>
 <div align="center" >
