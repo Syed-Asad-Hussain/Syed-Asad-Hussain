@@ -41,7 +41,7 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://planbmarketing.w3spaces.com/img/microsoft-sql-server-1.svg" alt="mssql" width="50" height="50"/> </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="" alt="mongodb" width="50" height="50"/> </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://planbmarketing.w3spaces.com/img/mongodb-icon-1.svg" alt="mongodb" width="50" height="50"/> </a>
 <h2 align="left">⚙️ Tools:</h2>
 <p align="left">
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="45" height="45"/> </a>
