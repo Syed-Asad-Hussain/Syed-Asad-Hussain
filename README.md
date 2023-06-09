@@ -57,10 +57,9 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
         <a href="https://www.jetbrains.com/idea/"target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="vscode" width="45" height="45"/> </a>
 </p>              
 <h2 align="left">📊 GitHub Stats:</h2>
-<p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=syed-asad-hussain&bg_color=30,6699ff,9933ff&title_color=fff&text_color=fff" alt="syed-asad-hussain" height="165" />
-        <img src="https://streak-stats.demolab.com/?user=syed-asad-hussain&theme=soft-green&border_radius=10&date_format=j%20M%5B%20Y%5D&background=151515&sideNums=DADADA&currStreakNum=DADADA"
-                height="165" alt="syed-asad-hussain" />
+        <img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+        <img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+        <img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"
         </p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4"<br>
 <h3 align="left">💰Support:</h3>
