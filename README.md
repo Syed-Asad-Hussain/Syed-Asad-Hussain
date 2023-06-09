@@ -59,8 +59,8 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
 <h2 align="left">📊 GitHub Stats:</h2>
 <div align="center" >
         
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Asad-Hussain&bg_color=30,6699ff,9933ff&title_color=fff&text_color=fff" height="165" width="32.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Asad-Hussain&bg_color=6699ff,9933ff&title_color=fff&text_color=fff&hide_border=true" height="165" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=Syed-Asad-Hussain&bg_color=30,6699ff,9933ff&title_color=fff&text_color=fff&hide_border=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Asad-Hussain&bg_color=30,6699ff,9933ff&hide_border=true" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Asad-Hussain&bg_color=30,6699ff,9933ff&title_color=fff&text_color=fff&show_icons=true&hide_border=true&layout=compact" height="165" width="32.5%">
 </a>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4"<br>
