@@ -66,9 +66,8 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
 </a>
  <div align="center">
  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/syed-asad-hussain/jaffarabbas/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/syed-asad-hussain/jaffarabbas/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
+<image src="https://raw.githubusercontent.com/syed-asad-hussain/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only"
+<image src="https://raw.githubusercontent.com/syed-asad-hussain/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only"
 </div>     
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4"<br>
 <h3 align="left">💰Support:</h3>
