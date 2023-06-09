@@ -19,15 +19,15 @@
 <br>
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
-        <a href="https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/syedasad.pk" height="30" width="40" /></a>
-        <a href="https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/linkedin-icon-2.svg" alt="https://www.linkedin.com/in/syedasad30/" height="30" width="40" /></a>
-        <a href="https://www.twitter.com/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/syedasad_pk" height="30" width="40" /></a>
+        <a href="https://www.facebook.com/syedasad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
+        <a href="https://www.linkedin.com/in/syedasad30/" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/linkedin-icon-2.svg" alt="https://www.linkedin.com/in/syedasad30/" height="40" width="50" /></a>
+        <a href="https://www.twitter.com/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/syedasad_pk" height="40" width="50" /></a>
           <a href="https://github.com/Syed-Asad-Hussain" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/github-icon-1.svg"
-alt="Syed Asad Hussain" height="30" width="40" /></a>
-        <a href="https://www.behance.net/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/syedasad_pk" height="30" width="40" /></a> 
-        <a href="https://codepen.io/syed-asad-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/syed-asad-hussain" height="30" width="40" /></a>
-        <a href="https://instagram.com/syedd._asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/syedasad.pk" height="30" width="40" /></a>
-        <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/discord.svg" alt="Syed Asad Hussain#4054" height="30" width="40" /></a>
+alt="Syed Asad Hussain" height="40" width="50" /></a>
+        <a href="https://www.behance.net/syedasad_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/syedasad_pk" height="40" width="50" /></a> 
+        <a href="https://codepen.io/syed-asad-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/syed-asad-hussain" height="40" width="50" /></a>
+        <a href="https://instagram.com/syedd._asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/syedasad.pk" height="40" width="50" /></a>
+        <a href="https://discord.gg/Syed Asad Hussain#4054" target="blank"><img align="center" src="https://planbmarketing.w3spaces.com/img/discord.svg" alt="Syed Asad Hussain#4054" height="40" width="50" /></a>
 </p>
 
 <h2 align="left">💻 Tech Stack:</h2>
