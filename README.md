@@ -1,5 +1,5 @@
 <img src="https://cdn.dribbble.com/userupload/7681031/file/original-556030cbca333440b2d5f274df3247d8.gif"/>
-<h1 align="center">Hi 👋, I'm Syed Asad Hussain</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Syed Asad Hussain</h1>
 <h3 align="center">An Up to Snuff Geek of Cross-Functional Web & Mobile Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-asad-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="syed-asad-hussain" /> <a href="https://wakatime.com/waka_7cd818a1-f9e9-4817-9bbc-790f08ef88ee"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Jan 1 2023" /></a></p>
