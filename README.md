@@ -60,7 +60,7 @@ alt="Syed Asad Hussain" height="40" width="50" /></a>
 <p align="left">
         <img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
         <img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-        <img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"
+        <img src="https://raw.githubusercontent.com/Syed-Asad-Hussain/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
         </p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=syed-asad-hussain&theme=onedark&no-frame=false&no-bg=true&margin-w=4"<br>
 <h3 align="left">💰Support:</h3>
