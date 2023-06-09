@@ -6,6 +6,7 @@
 <img align="right"
         src="https://cdn.dribbble.com/userupload/7680987/file/original-8d2d657e3f1ad6368d5c0cafd485c177.jpg?compress=1&resize=1024x1024"
         width="300" />
+        
 - 🌱 I’m currently learning **React Native, Nest JS, Typescript**
 
 - 💬 Ask me about **Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.**
