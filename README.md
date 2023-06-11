@@ -1,11 +1,9 @@
 <img src="https://cdn.dribbble.com/userupload/7681031/file/original-556030cbca333440b2d5f274df3247d8.gif"/>
 <h1 align="center">Hi There <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Syed Asad Hussain <img src="https://planbmarketing.w3spaces.com/img/twitter-verified-badge.svg" height="30" width="30"</h1> <br>
-<h3 align="center">An Up to Snuff Geek of Cross-Functional Web & Mobile Application Development</h3>
-
+<h3 align="center">An Up to Snuff Geek of Cross-Functional Web & Mobile Application Development</h3> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-asad-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="syed-asad-hussain" /> <a href="https://wakatime.com/waka_7cd818a1-f9e9-4817-9bbc-790f08ef88ee"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Jan 1 2023" /></a></p>
 <img align="right"
-        src="https://cdn.dribbble.com/userupload/7680987/file/original-8d2d657e3f1ad6368d5c0cafd485c177.jpg?compress=1&resize=1024x1024"
-        width="300" />
+        src="https://cdn.dribbble.com/userupload/7719312/file/original-bb043e3bd162e2b55e0fc3d0ba2cbefd.gif" width="350" height="250" />
         
 - 🌱 I’m currently learning **React Native, Nest JS, Typescript**
 
